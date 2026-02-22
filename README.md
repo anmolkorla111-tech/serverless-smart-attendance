@@ -1,4 +1,4 @@
-# Serverless Smart Attendance System
+
 # Serverless Smart Attendance System
 
 The Serverless Smart Attendance System is a cloud-based attendance management solution
